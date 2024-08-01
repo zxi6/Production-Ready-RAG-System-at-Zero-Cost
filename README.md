@@ -3,3 +3,4 @@
 #https://blog.kronis.dev/tutorials/self-hosting-an-ai-llm-chatbot-without-going-broke
 #https://python.plainenglish.io/running-llms-and-generative-ai-models-in-th-cloud-for-free-b712312ab2a5
 #https://lmstudio.ai/
+#https://docs.taipy.io/en/latest/gallery/finance/1_stock_visualization/
